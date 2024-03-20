@@ -1,0 +1,2 @@
+1. check out sphinx documentation generation
+2. 
